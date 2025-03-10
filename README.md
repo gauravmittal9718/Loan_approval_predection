@@ -99,7 +99,7 @@ Contributions are welcome! Feel free to submit a **Pull Request** or raise an **
 ---
 
 ## 📧 Contact  
-📌 **Author:**  Manish Devdi   
+📌 **Author:**  GAURAV MITTAL   
 
 📌 **GitHub:**  [Gauravmittal](https://github.com/gauravmittal9718)              📌 **LinkedIn:** [Gaurav Mittal](https://www.linkedin.com/in/gaurav-mittal-59378b201/)  
 

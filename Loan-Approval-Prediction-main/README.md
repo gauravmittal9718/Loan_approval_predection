@@ -32,6 +32,8 @@ The dataset includes:
 ✔️ Visualized distributions of Income, Loan Amount, and Credit Score  
 ✔️ Analyzed correlation between different features and Loan Approval  
 
+---
+
 ## 🚀 How to Run the Project  
 
 1️⃣ **Clone the Repository**  
@@ -58,7 +60,7 @@ jupyter notebook
 
 ## 📌 Model Accuracy Results:  
 ✅  **Decision Tree Accuracy:** 98.13%  
-✅  **Random Forest Accuracy:** 97.42% 
+✅  **Random Forest Accuracy:** 97.42%  
 ---
 
 ## 📌 Classification Report:
@@ -99,8 +101,9 @@ Contributions are welcome! Feel free to submit a **Pull Request** or raise an **
 ---
 
 ## 📧 Contact  
-📌 **Author:**  Manish Devdi   
+📌 **Author:** GAURAV MITTAL   
+📌 **GitHub:**  [Gauravmittal](https://github.com/gauravmittal9718)  
+📌 **LinkedIn:** [Gaurav Mittal](https://www.linkedin.com/in/gaurav-mittal-59378b201/)  
 
-📌 **GitHub:**  [Gauravmittal](https://github.com/gauravmittal9718)              📌 **LinkedIn:** [Gaurav Mittal](https://www.linkedin.com/in/gaurav-mittal-59378b201/)  
+⭐ **If you like this project, give it a star!** ⭐
 
-⭐ **If you like this project, give it a star!** ⭐  
